@@ -9,6 +9,8 @@ tags: tools, writing
 finished: true
 ---
 
+# Writing skills
+
 Suppose you get mountains of information from Internet, sometimes the information distributed seperatedly in different website. Each individual has his own different opinion and even opposite to others. You need a good tool-set to record the information, and then re-create your own knowledge representation with your own words, but with the reference to such previous message.
 
 Therefore, citation for website link or content is non-trivial. However, citation in journal papers is very common, but not supported so well in website-blog writing, since people think such representation is not official, the website content is dynamic changing. 
