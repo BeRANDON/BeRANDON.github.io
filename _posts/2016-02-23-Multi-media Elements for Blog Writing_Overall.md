@@ -1,12 +1,15 @@
 ---
-date: "2016-02-27T17:13:15Z"
-draft: false 
+layout: post
 title: "Elements Source Issue in Reports"
+subtitle: "To enrich the report writing, specific for online blog writing, multi-media elements are required to embedded in the documents. The elements includes latex formular, images, SVGs, flowchart and so on. One can find different techniques to suport them. With discovery, I will continuelly fullfill this document to find solutions or alternatives for embed elements in reports. "
+date: "2016-02-27T17:13:15Z"
+author: brandon
+category: methodology 
+tags: writing 
+finished: true
 ---
 
 # Elements for Report Writing 
-
-To enrich the report writing, specific for online blog writing, multi-media elements are required to embedded in the documents. The elements includes latex formular, images, SVGs, flowchart and so on. One can find different techniques to suport them. With discovery, I will continuelly fullfill this document to find solutions or alternatives for embed elements in reports. 
 
 ## Latex Formular
 
