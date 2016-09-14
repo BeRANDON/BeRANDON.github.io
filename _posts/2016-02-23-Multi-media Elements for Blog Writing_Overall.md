@@ -10,7 +10,8 @@ To enrich the report writing, specific for online blog writing, multi-media elem
 
 ## Latex Formular
 
-`Mathjax` is an open-sourced excellent js codes that can translate latex formular to html codings. 
+`Mathjax`: This is an open-sourced excellent js codes that can translate latex formular to html codings. 
+`http://atomurl.net/math/`: A website that generates latex figure based on latex formular via the google api. For exmaple, one can uese http://chart.apis.google.com/chart?cht=tx&chl=%20%20%5Cfrac%7Ba%7D%7Bb%7D%20 to present as <img src="http://chart.apis.google.com/chart?cht=tx&chl=%20%20%5Cfrac%7Ba%7D%7Bb%7D%20">.
 
 ## Github As Content Provider
 
