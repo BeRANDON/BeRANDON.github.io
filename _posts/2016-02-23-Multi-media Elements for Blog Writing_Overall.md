@@ -16,6 +16,10 @@ finished: true
 `Mathjax`: This is an open-sourced excellent js codes that can translate latex formular to html codings. 
 `http://atomurl.net/math/`: A website that generates latex figure based on latex formular via the google api. For exmaple, one can uese http://chart.apis.google.com/chart?cht=tx&chl=%20%20%5Cfrac%7Ba%7D%7Bb%7D%20 to present as <img src="http://chart.apis.google.com/chart?cht=tx&chl=%20%20%5Cfrac%7Ba%7D%7Bb%7D%20">.
 
+## Google
+
+![google](https://photos.google.com/share/AF1QipONG7wlD23XDL3Cb1L-nuzye3aIEdq-AdM-pgo2eXH5WlLfIcOluYKujtRsvcY5vQ/photo/AF1QipNDZnouMZ6XxXGy5yEOp7-Mrh51iJ-U0LNeGaxp?key=Rl95bURWSTJBcTJpdUJhNjdra3BSZHdxLXAyVjVn)
+
 ## Github As Content Provider
 
 The independent sources provider are multiple. However, github is my favourite one, since I can control versions and provide flexible access. One can stores files in github, and access them through specific links. You can also use `githubusercontent` or a third party access service `rawgit` to access raw files. However, `cdn.rawgit` will store previous files while `rawgit` and `githubusercontent` will load current file. For example, one can use following codes to embed images in blog:
