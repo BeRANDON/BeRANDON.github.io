@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Elements Source Issue in Reports"
+title: "Markdown-based_Blog_Writing_with_Multi-media_Elements_Source"
 subtitle: "To enrich the report writing, specific for online blog writing, multi-media elements are required to embedded in the documents. The elements includes latex formular, images, SVGs, flowchart and so on. One can find different techniques to suport them. With discovery, I will continuelly fullfill this document to find solutions or alternatives for embed elements in reports. "
 date: "2016-02-27T17:13:15Z"
 author: brandon
@@ -16,10 +16,6 @@ finished: true
 `Mathjax`: This is an open-sourced excellent js codes that can translate latex formular to html codings. 
 `http://atomurl.net/math/`: A website that generates latex figure based on latex formular via the google api. For exmaple, one can uese http://chart.apis.google.com/chart?cht=tx&chl=%20%20%5Cfrac%7Ba%7D%7Bb%7D%20 to present as <img src="http://chart.apis.google.com/chart?cht=tx&chl=%20%20%5Cfrac%7Ba%7D%7Bb%7D%20">.
 
-## Google
-
-![google](https://lh3.googleusercontent.com/9Wo5zT6cB0GuaIuXuReOWjct2ENGoQuuwrhbuL1pXyZOLfWiWEZQF5nAr4BRHAARxKyAmJC5gD521hIPE0l-OzdhEVVnVzxpNlxLxfpwrUYGF45XfODCUuUWAeDHuSyRBBsKacEq7aTvyeLPGX66r0NHSB0LF9gG1_RQTe9sYnAs-V3LWrSoAU0PVhUH5Ov25wpEdyGlxJlHpWf-rdTkAVmIl2aF9vNwMQiKejaWyqb514hBieBpdb2xi4-YNJiO5rcxzaGewAmleInEVXeglvqubrnEG2XzIaMRfDbqRMMMxzxKwjogHN1Ati8I-Fjwm8kAO7EA8mVX4WFBM2B8mkoECx45TKr7VtQH8NN11r6nDQF0kFtnnYyHXYbN4oaz2e6Er7m-LHR_FM-914nLqHyXuVnK2P5tflosPfxmCYFmDz9F0Hpb0x8o70o7MqiT9mtiJUqiw7p_bRdF3kX_wRe0n6mGr9A8CEnodtNlanFOBbxU4fZDKwA9xl7AN7ydoUU_kInDM-6zaOrhf5IOCsX5ioaBs7QdR8YU-1TWDFZultdYV1-YXfu1FbI6B5nZ5L1_uIKPNwqSZ-rdD8qMU2afbUsz84orlm7u6Hr05uS50lnE=w2832-h1592-no)
-
 ## Github As Content Provider
 
 The independent sources provider are multiple. However, github is my favourite one, since I can control versions and provide flexible access. One can stores files in github, and access them through specific links. You can also use `githubusercontent` or a third party access service `rawgit` to access raw files. However, `cdn.rawgit` will store previous files while `rawgit` and `githubusercontent` will load current file. For example, one can use following codes to embed images in blog:
@@ -30,6 +26,8 @@ The independent sources provider are multiple. However, github is my favourite o
 ![rawgit](https://rawgit.com/BeRANDON/Source/master/avatar.jpg)
 ![rawgit]\(https://rawgit.com/BeRANDON/Source/master/avatar.jpg)
 ![githubusercontent]\(https://raw.githubusercontent.com/BeRANDON/Source/master/avatar.jpg)
+
+The difference is that for some js file, `cdn.rawgit.com` will execute it, while `githubusercontent.com` will return the source file to you.
 
 One can find more dicussion from here https://www.zhihu.com/question/19758488.
 

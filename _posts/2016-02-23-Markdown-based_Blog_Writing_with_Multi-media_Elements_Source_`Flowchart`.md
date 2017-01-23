@@ -1,7 +1,7 @@
 ---
 date: "2016-02-23T20:50:40Z"
 draft: false 
-title: "Tools for flowchart presentation"
+title: "Markdown-based_Blog_Writing_with_Multi-media_Elements_Source_`flowchart`"
 ---
 
 Previously, I only use `Microsoft Visio` as the SVG generator. However, it is not free and not suitable for portable mobile working. Recently, website-based online flowchart tools are popular because one can access services and files from anywhere. Besides, one can also use statistic language description, like TikZ/Latex to generate the SVG you need.
