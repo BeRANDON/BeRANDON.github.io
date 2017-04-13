@@ -8,7 +8,41 @@
 
   <div class="wrapper">
     <center>
-		<p><a class="link" href="{{ site.baseurl }}">HOME</a></p>
+
+    <div align="center" >
+      <a href="{{ site.baseurl }}">
+        <img src="stormlessharbour.png"  alt="Stromless Harbour" width="300px"/>
+      </a>
+    </div>
+    <div>
+      <img src="birdline.png"  alt="birdline" />
+    </div>
+
+    <style type="text/css">
+      .headlink {
+        font-size: 20px;
+        border: bold;
+        color: teal;
+        text-decoration: none;
+      }
+      a.headlink:hover {
+        /*text-decoration: underline;*/
+          display: inline-block;
+          text-decoration: none;
+          border-bottom: 2px solid red;
+        margin-bottom: -1px;
+        padding-bottom: 7px;
+      }
+    </style>
+
+    <p><a class="headlink" href="{{ site.baseurl }}">HOME</a> /
+    <a class="headlink" href="{{ site.baseurl }}/archive/">Archive</a> /
+    <a class="headlink" href="{{ site.baseurl }}/category/">Category</a> / 
+    <a class="headlink" href="{{ site.baseurl }}/tags/">Tags</a> / 
+    <a class="headlink" href="{{ site.baseurl }}/about/">About</a> /
+    <a class="headlink" href="{{ site.baseurl }}/contact/">Contact</a>
+    </p>
+
     </center>
   </div>
 
