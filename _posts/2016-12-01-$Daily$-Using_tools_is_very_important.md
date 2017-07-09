@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: "@Daily@-Using_tools_is_very_important"  
+title: "$Daily$-Using_tools_is_very_important"  
 subtitle: "subtitle"  
 date: "2016-12-01T22:10:01Z"  
 author: Bo  
